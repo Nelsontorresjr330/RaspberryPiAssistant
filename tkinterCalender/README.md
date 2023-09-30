@@ -38,8 +38,8 @@ python3 tkinterCalender.py
 Feel free to contribute to the development of this lightweight calendar application by creating a pull request.
 
 ### Images
-<img src="tkinterCalender/welcome.png" alt="Welcome Screen" width="500"/>
-<img src="tkinterCalender/eventsExample.png" alt="Events Screen" width="500"/>
+<img src="welcome.png" alt="Welcome Screen" width="500"/>
+<img src="eventsExample.png" alt="Events Screen" width="500"/>
 
 ### Personalization
 Within the code there are a few lines you can change to personalize the experience.<br>
